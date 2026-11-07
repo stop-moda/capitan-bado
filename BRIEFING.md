@@ -2,7 +2,8 @@
 
 - **Cliente:** Stop Moda Masculina (loja de roupas masculinas).
 - **Esta página:** só para a unidade de **Capitán Bado**, no Paraguai, e para o público de lá. É um site separado do de Ponta Porã (MS), porque cada um será divulgado de um jeito.
-- **Base:** cópia do site de Ponta Porã (`sites\stop-moda`), igual em visual, fotos e estrutura. Só mudam a cidade, os endereços e o link do grupo VIP.
+- **Base:** cópia do site de Ponta Porã (`sites\stop-moda`), igual em visual e estrutura. Só mudam a cidade, os endereços e o link do grupo VIP.
+- **Fotos:** nenhuma. O cliente pediu para retirar todas as fotos de produtos dos dois sites (2026-11-07). Cópia em `sites\_arquivo-fotos-removidas`.
 - **Público:** B2C, homens que compram moda masculina.
 - **Conversão principal:** entrar no grupo VIP desta unidade (grupo ainda não existe, deve ser um grupo diferente do de Ponta Porã).
 - **Idioma:** português, igual ao de Ponta Porã. Pode virar espanhol se o cliente quiser.

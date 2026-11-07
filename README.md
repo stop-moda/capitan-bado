@@ -15,13 +15,11 @@ Abra http://localhost:5175.
 ## Estrutura
 
 - `index.html`, `style.css`, `script.js`
-- `assets/`: logo (SVG), favicon, ícone do iPhone, imagem de compartilhamento
-- `public/images/`: fotos otimizadas em WebP
+- `assets/`: logo (SVG), favicon, ícone do iPhone, imagem de compartilhamento (só logo e texto, sem foto), `fonts/` (Barlow, hospedada no próprio site)
 
 ## Como mexer
 
 - **Link do grupo:** `CONFIG.GROUP_LINK` no topo do `script.js`. Vale para os 3 botões. Tem que ser o grupo de Capitán Bado, não o de Ponta Porã.
-- **Fotos da faixa:** os `<li class="strip__item">` do único grupo em `.strip`, no `index.html`.
 - **Texto das faixas de alerta:** atributo `data-words` das duas `.tape__track` no `index.html`, palavras separadas por `|`.
 - **Cidade:** aparece no topo, no texto principal, nas faixas, no bloco vermelho, no rodapé, no título e nos dados estruturados. Para trocar, procurar por "Capitán Bado".
 - Não mencionar a unidade de Ponta Porã nesta página.
@@ -33,3 +31,4 @@ Abra http://localhost:5175.
 - **Domínio próprio:** ainda não definido.
 - **Idioma:** está em português. Confirmar com o cliente se prefere espanhol.
 - **Textos:** o cliente precisa aprovar.
+- **Fotos:** o cliente não gostou das fotos e todas foram retiradas (nos dois sites). Uma cópia fica fora do site, em `sites\_arquivo-fotos-removidas`. Elas continuam no histórico público do repositório no GitHub.
