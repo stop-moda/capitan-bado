@@ -19,14 +19,15 @@ Abra http://localhost:5175.
 
 ## Como mexer
 
-- **Link do grupo:** `CONFIG.GROUP_LINK` no topo do `script.js`. Vale para os 3 botões. Tem que ser o grupo de Capitán Bado, não o de Ponta Porã.
+- **Link do grupo:** `CONFIG.GROUP_LINK` no topo do `script.js`. Vale para os 3 botões.
 - **Texto das faixas de alerta:** atributo `data-words` das duas `.tape__track` no `index.html`, palavras separadas por `|`.
 - **Cidade:** aparece no topo, no texto principal, nas faixas, no bloco vermelho, no rodapé, no título e nos dados estruturados. Para trocar, procurar por "Capitán Bado".
 - Não mencionar a unidade de Ponta Porã nesta página.
 
 ## Pendências
 
-- **Link do grupo VIP de Capitán Bado:** colar em `script.js`. Enquanto estiver vazio, os botões mostram um aviso. **Não divulgar antes disso.**
+- **Link do grupo VIP:** já configurado em `CONFIG.GROUP_LINK` (`script.js`) com o grupo de WhatsApp informado em 2026-11-09, que é o **mesmo grupo dos dois sites**. Se a Stop criar um grupo só de Capitán Bado, é só trocar o link ali.
+- **Texto "Grupo exclusivo para o público de Capitán Bado, no Paraguai.":** conflita um pouco com o fato de o grupo ser o mesmo nas duas cidades. Combinar com o cliente se mantém ou ajusta.
 - **Endereço, telefone e Instagram da loja:** não informados.
 - **Domínio próprio:** ainda não definido.
 - **Idioma:** está em português. Confirmar com o cliente se prefere espanhol.
