@@ -26,7 +26,7 @@ Abra http://localhost:5175.
 
 ## Pendências
 
-- **Link do grupo VIP:** já configurado em `CONFIG.GROUP_LINK` (`script.js`) com o grupo de WhatsApp informado em 2026-11-09, que é o **mesmo grupo dos dois sites**. Se a Stop criar um grupo só de Capitán Bado, é só trocar o link ali.
+- **Link do grupo VIP:** já configurado em `CONFIG.GROUP_LINK` (`script.js`) com o grupo geral "Black Stop 2026", informado em 2026-11-09, que antes era compartilhado com Ponta Porã. Desde 2026-11-12 Ponta Porã tem grupo próprio; **este site ainda usa o grupo geral** até a Stop criar o grupo específico de Capitán Bado (aí é só trocar o link ali).
 - **Frase abaixo do botão grande:** "Grupo exclusivo, direto no seu WhatsApp." (igual nos dois sites, sem citar cidade, porque o grupo é o mesmo nas duas).
 - **Endereço, telefone e Instagram da loja:** não informados.
 - **Domínio próprio:** ainda não definido.
